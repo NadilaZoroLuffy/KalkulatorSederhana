@@ -1,0 +1,14 @@
+D:\kampus\kelompok\latihan\Helloguys\bin\Debug\net8.0\Helloguys.exe
+D:\kampus\kelompok\latihan\Helloguys\bin\Debug\net8.0\Helloguys.deps.json
+D:\kampus\kelompok\latihan\Helloguys\bin\Debug\net8.0\Helloguys.runtimeconfig.json
+D:\kampus\kelompok\latihan\Helloguys\bin\Debug\net8.0\Helloguys.dll
+D:\kampus\kelompok\latihan\Helloguys\bin\Debug\net8.0\Helloguys.pdb
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.GeneratedMSBuildEditorConfig.editorconfig
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.AssemblyInfoInputs.cache
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.AssemblyInfo.cs
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.csproj.CoreCompileInputs.cache
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.dll
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\refint\Helloguys.dll
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.pdb
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\Helloguys.genruntimeconfig.cache
+D:\kampus\kelompok\latihan\Helloguys\obj\Debug\net8.0\ref\Helloguys.dll
